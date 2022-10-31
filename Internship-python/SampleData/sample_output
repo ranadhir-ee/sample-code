@@ -1,0 +1,107 @@
+TFiles: ['IEEE14bus_v32.raw', 'ieee14.dyr', 'Conl.idv', 'IEEE14bus_v32.sav']
+
+TIndex: 2
+DNetworks: 
+DIndex: 1
+DFiles: ['IEEE13Nodeckt.dss']
+ 
+TIndex: 3
+DNetworks: 
+DIndex: 2
+DFiles: ['IEEE13Nodeckt.dss']
+ 
+TIndex: 4
+DNetworks: 
+DIndex: 3
+DFiles: ['ieee37.dss']
+ 
+TIndex: 5
+DNetworks: 
+DIndex: 4
+DFiles: ['IEEE13Nodeckt.dss']
+ 
+TIndex: 6
+DNetworks: 
+DIndex: 5
+DFiles: ['ieee37.dss']
+ 
+TIndex: 9
+DNetworks: 
+DIndex: 6
+DFiles: ['ieee37.dss']
+ 
+TIndex: 10
+DNetworks: 
+DIndex: 7
+DFiles: ['ieee37.dss']
+ 
+TIndex: 11
+DNetworks: 
+DIndex: 8
+DFiles: ['ieee37.dss']
+ 
+TIndex: 12
+DNetworks: 
+DIndex: 9
+DFiles: ['ieee37.dss']
+ 
+TIndex: 13
+DNetworks: 
+DIndex: 10
+DFiles: ['ieee37.dss']
+ 
+TIndex: 14
+DNetworks: 
+DIndex: 11
+DFiles: ['ieee37.dss']
+ 
+Ready to accept Socekt
+Open Tcp Server
+Open Subprocess Dindex: 1
+Open Subprocess Dindex: 2
+Open Subprocess Dindex: 3
+Open Subprocess Dindex: 4
+Open Subprocess Dindex: 5
+Open Subprocess Dindex: 6
+Open Subprocess Dindex: 7
+Open Subprocess Dindex: 8
+Open Subprocess Dindex: 9
+Open Subprocess Dindex: 10
+Open Subprocess Dindex: 11
+Connected Subprocess Dindex: 1
+Ready to accept Socekt
+Connected Subprocess Dindex: 8
+Ready to accept Socekt
+Connected Subprocess Dindex: 3
+Ready to accept Socekt
+Connected Subprocess Dindex: 5
+Ready to accept Socekt
+Connected Subprocess Dindex: 9
+Ready to accept Socekt
+Connected Subprocess Dindex: 11
+Ready to accept Socekt
+Connected Subprocess Dindex: 7
+Ready to accept Socekt
+Connected Subprocess Dindex: 10
+Ready to accept Socekt
+Connected Subprocess Dindex: 2
+Ready to accept Socekt
+Connected Subprocess Dindex: 6
+Ready to accept Socekt
+Connected Subprocess Dindex: 4
+Ready to accept Socekt
+
+------Initialize PSSE Simulating------
+
+BASEMVA: 100.0
+Bus Index: 2, PU: 1.01972734928, Ptbus: 21.7000007629, Qtbus: 12.7000007629
+Bus Index: 3, PU: 1.00057423115, Ptbus: 50.0, Qtbus: 25.0
+Bus Index: 4, PU: 0.998753130436, Ptbus: 47.7999992371, Qtbus: 10.0
+Bus Index: 5, PU: 1.00429403782, Ptbus: 7.59999990463, Qtbus: 1.60000002384
+Bus Index: 6, PU: 0.999738156796, Ptbus: 15.0000009537, Qtbus: 7.50000047684
+Bus Index: 9, PU: 1.00041520596, Ptbus: 29.4999980927, Qtbus: 16.6000003815
+Bus Index: 10, PU: 0.992432653904, Ptbus: 9.0, Qtbus: 5.80000019073
+Bus Index: 11, PU: 0.992401063442, Ptbus: 3.5, Qtbus: 1.79999995232
+Bus Index: 12, PU: 0.987251937389, Ptbus: 6.09999990463, Qtbus: 1.60000002384
+Bus Index: 13, PU: 0.984701514244, Ptbus: 13.5000009537, Qtbus: 5.80000019073
+Bus Index: 14, PU: 0.990040779114, Ptbus: 20.0, Qtbus: 7.0
