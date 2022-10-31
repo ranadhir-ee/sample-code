@@ -1,9 +1,3 @@
-% LP formulation of the MINLP problem of the following journal paper:
-% Sarkar, Ranadhir. "An analytical approach for reducing k?line failure analysis and load shed computation." 
-% IET Generation, Transmission & Distribution (2022), solved at k=4 using this code.
-
-%Code written by Ranadhir Sarkar
-
 tic
 clear all; close all; clc;
 
